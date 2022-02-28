@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEKB6DTQGU0Ks1BTlLtuAqUide48qCHAbCTbDx7lHlSZDb8BGLNjfjGtzpF/YL5+5yXc03gdXpKEaAEwJzXm5w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Model\\View\\View.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.json\\6.0.2\\system.text.json.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
