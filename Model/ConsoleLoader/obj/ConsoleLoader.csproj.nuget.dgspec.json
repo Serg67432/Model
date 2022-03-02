@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Model\\ConsoleLoader\\ConsoleLoader.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\ConsoleLoader\\ConsoleLoader.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Model\\ConsoleLoader\\ConsoleLoader.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\ConsoleLoader\\ConsoleLoader.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Model\\ConsoleLoader\\ConsoleLoader.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\ConsoleLoader\\ConsoleLoader.csproj",
         "projectName": "ConsoleLoader",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Model\\ConsoleLoader\\ConsoleLoader.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\ConsoleLoader\\ConsoleLoader.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Model\\ConsoleLoader\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\ConsoleLoader\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj"
               }
             }
           }
@@ -66,11 +66,11 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}

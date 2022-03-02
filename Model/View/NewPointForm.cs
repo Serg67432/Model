@@ -144,10 +144,10 @@ namespace View
 
             XNumericUpDown.Value = random.Next(100,200);
             YNumericUpDown.Value = random.Next(100, 200);
-            AccelerationXNumericUpDown.Value = random.Next(10);
-            AccelerationYNumericUpDown3.Value = random.Next(10);
-            SpeedXNumericUpDown.Value = random.Next(30);
-            SpeedYNumericUpDown.Value = random.Next(30);
+            AccelerationXNumericUpDown.Value = random.Next(1,5);
+            AccelerationYNumericUpDown3.Value = random.Next(1,5);
+            SpeedXNumericUpDown.Value = random.Next(10);
+            SpeedYNumericUpDown.Value = random.Next(10);
             CenterXNumericUpDown.Value = random.Next(100, 200);
             CenterYNumericUpDown.Value = random.Next(100, 200);
             ParametrNumericUpDown.Value = random.Next(2,10);

@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Model\\View\\View.csproj": {}
+    "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\View\\View.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\user\\source\\repos\\Model\\View\\View.csproj": {
+    "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\View\\View.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Model\\View\\View.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\View\\View.csproj",
         "projectName": "View",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Model\\View\\View.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\View\\View.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Model\\View\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\View\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -47,8 +47,8 @@
           "net5.0-windows7.0": {
             "targetAlias": "net5.0-windows",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Model\\Model\\Model.csproj"
+              "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\GitHub\\Model\\Model\\Model\\Model.csproj"
               }
             }
           }
