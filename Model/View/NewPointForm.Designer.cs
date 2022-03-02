@@ -112,7 +112,7 @@ namespace View
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(20, 53);
+            this.label10.Location = new System.Drawing.Point(16, 57);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(61, 15);
             this.label10.TabIndex = 17;
@@ -121,7 +121,7 @@ namespace View
             // 
             // ParametrNumericUpDown
             // 
-            this.ParametrNumericUpDown.Location = new System.Drawing.Point(100, 51);
+            this.ParametrNumericUpDown.Location = new System.Drawing.Point(87, 55);
             this.ParametrNumericUpDown.Minimum = new decimal(new int[] {
             2,
             0,
