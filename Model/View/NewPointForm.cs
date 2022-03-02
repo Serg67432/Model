@@ -140,8 +140,12 @@ namespace View
         private void RandomButton_Click(object sender, EventArgs e)
         {
             Random random = new Random();
+            //это выбор типа случайной точки
+            //выбитается случайный выделенный пункт в comboBox
             comboBox1.SelectedIndex = random.Next(3);
 
+            //это остальные случайные параметры точки
+            //устанавливаю их срезу у любой точки, чтобы не писать лишние if
             XNumericUpDown.Value = random.Next(100,200);
             YNumericUpDown.Value = random.Next(100, 200);
             AccelerationXNumericUpDown.Value = random.Next(1,5);
