@@ -7,7 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleLoader", "ConsoleLoader\ConsoleLoader.csproj", "{2812536A-1735-4199-AFB6-0547960B15A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "View", "View\View.csproj", "{CADA5999-9D67-4D48-9DD2-E6873AEE3D1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "View", "View\View.csproj", "{CADA5999-9D67-4D48-9DD2-E6873AEE3D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{2A0E3A98-3D0D-4B07-BDC4-8D98217060C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{CADA5999-9D67-4D48-9DD2-E6873AEE3D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CADA5999-9D67-4D48-9DD2-E6873AEE3D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CADA5999-9D67-4D48-9DD2-E6873AEE3D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0E3A98-3D0D-4B07-BDC4-8D98217060C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0E3A98-3D0D-4B07-BDC4-8D98217060C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0E3A98-3D0D-4B07-BDC4-8D98217060C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0E3A98-3D0D-4B07-BDC4-8D98217060C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
